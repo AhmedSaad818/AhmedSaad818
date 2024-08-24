@@ -14,12 +14,15 @@ Welcome to my GitHub profile! I am a passionate Data Analyst with a strong backg
 ### Hard Skills:
 - **Data Visualization Tools:** Power BI
 - **Business Intelligence**
-- **Microsoft Excel**
-- **Programming Languages:** Python, SQL
+- **Microsoft Excel and Google Sheets**
+- **Programming Languages:** Python (Numpy, Pandas, Matplotlib, Seaborn,Sklearn)
+- MySQL, SQL Server,SQLite, PostgreSQL
 - **Statistical Analysis**
 - **Data Wrangling and Cleaning**
 - **Machine Learning**
 - **ETL Process**
+- **Linnux Os**
+- Git
 
 ### Soft Skills:
 - **Communication**
